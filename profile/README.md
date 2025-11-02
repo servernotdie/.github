@@ -1,4 +1,3 @@
-## Hi 
 ## hmmm 
 free tunnel for miner stratum+tcp://sg.servernotdie.dpdns.org:8080 or stratum+tcp://snd.qzz.io:8080 ( node in vietnam use pool _sg.vipor.net_ )
 nothing =)))
