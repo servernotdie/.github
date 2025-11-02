@@ -4,5 +4,5 @@ nothing =)))
 ## My wedsite upload file 
 _https://cloud.servernotdie.dpdns.org_
 # MHMMMMM
-https://f.servernotdie.dpdns.org/raw/tenor.gif
-https://f.servernotdie.dpdns.org/raw/Untitled.png
+![animated gif of tenor](https://f.servernotdie.dpdns.org/raw/tenor.gif)
+![static image](https://f.servernotdie.dpdns.org/raw/Untitled.png)
