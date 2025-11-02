@@ -5,6 +5,6 @@ nothing =)))
 ## My wedsite upload file 
 _https://cloud.servernotdie.dpdns.org_
 # MHMMMMM
-![alt](tenor.gif)
+![alt](.github/tenor.gif)
 
 
